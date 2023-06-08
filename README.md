@@ -31,3 +31,6 @@ Contact
 If you have any questions or suggestions regarding this project, feel free to reach out to farhan26azam@gmail.com
 
 Thank you for visiting this repository and your interest in our project!
+
+
+TYPO FIX!
